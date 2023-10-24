@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+🔥I'm a programming amateur.
 
+❄I'm learning Cyber Security.
+
+⚡I'm working on Java(RASP).
+
+📫contact me by 2424379490@qq.com
 <!--
 **yifeiyixiang/yifeiyixiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
