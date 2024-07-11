@@ -1,4 +1,4 @@
-### Hi there 👋<a href="https://kamo.fun" target="_blank">Blog</a>
+### Hi there 👋<a href="http://kepao.icu" target="_blank">Blog</a>
 🔥I'm a programming amateur.
 
 ❄I'm learning Cyber Security.
